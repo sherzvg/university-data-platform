@@ -1,0 +1,13 @@
+.env
+*.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+infra/docker/platform/airflow/logs/
+*.db
+sa-key.json
+~/.yc/
